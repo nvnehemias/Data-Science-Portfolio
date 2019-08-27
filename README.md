@@ -7,3 +7,8 @@
 - [Uber Driver Data Analytics](https://github.com/nvnehemias/Uber-Driver-Data-Analytics)
 - [Pewlett Hackard Analytics](https://github.com/nvnehemias/Pewlett-Hackard-Analysis)
 - [Wall Street Analytics](https://github.com/nvnehemias/Wall-Street-Analysis)
+
+
+
+## Additional Work:
+- [This folder holds addition work done](https://github.com/nvnehemias/Additional-Work)
